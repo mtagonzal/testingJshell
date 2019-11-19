@@ -5,3 +5,9 @@ b = n;
 C = n;
 /save snippets
 /save --history historia 
+/edit
+/edit 4
+edit /5
+/edit 5
+/save snippets
+/save --history historia
